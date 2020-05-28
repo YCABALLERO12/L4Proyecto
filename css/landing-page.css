@@ -24,7 +24,7 @@ h6 {
 header.masthead {
   position: relative;
   background-color:black;
-  background: url("Imagen1.jpg") no-repeat center center;
+  background: url("img/Imagen1.jpg") no-repeat center center;
   background-size: cover;
   padding-top: 8rem;
   padding-bottom: 8rem;
