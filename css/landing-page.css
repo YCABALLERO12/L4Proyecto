@@ -10,8 +10,11 @@ body {
 
 h1{
   font-size: 40px;
+  color: black;
 }
-h2,
+h2{
+  color: black;
+}
 h3,
 h4,
 h5,
